@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: Montserrat, Merriweather, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Roboto Mono', monospace, Montserrat, Merriweather, 'Helvetica Neue', Arial, sans-serif;
 }
 
 hr {
@@ -46,7 +46,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Roboto Mono', monospace, 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 p {
