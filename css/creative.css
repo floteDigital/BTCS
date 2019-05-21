@@ -401,6 +401,88 @@ header .header-content .header-content-galleryLeft p {
     font-weight: 700;
 }
 
+#menu-drinks {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    /*background-image: url(../img/header.jpg);
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+}
+
+#menu-drinks .menu-content {
+    position: relative;
+    width: 100%;
+    padding: 0px 15px;
+    text-align: center;
+}
+
+#menu-drinks .menu-content .menu-section-title {
+    font-weight: 700;
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+#menu-drinks .menu-content .menu-section {
+    margin-bottom: 15px;
+}
+
+#menu-drinks .menu-content .menu-items {
+    position: relative;
+    /*width: 100%;*/
+    /*padding: 110px 15px;*/
+    text-align: left;
+}
+
+#menu-drinks .menu-content .menu-items .menu-item {
+    padding-top: 15px;
+}
+
+#menu-drinks .menu-content .menu-items .menu-item .menu-item-price-top {
+    /*position: relative;*/
+    /*width: 100%;*/
+    /*padding: 110px 15px;*/
+    float: right;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+#menu-drinks .menu-content .menu-items .menu-item .menu-item-price-bottom {
+    /*position: relative;*/
+    /*width: 100%;*/
+    /*padding: 110px 15px;*/
+    float: right;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+#menu-drinks .menu-content .menu-items .menu-item .menu-item-title {
+    margin-bottom: 3px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+}
+
+#menu-drinks .menu-content .menu-items .menu-item .menu-item-description {
+    margin-bottom: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #fff;
+}
+
+#menu-drinks .menu-content h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
 
 /*menu .menu-content .menu-content-inner p {
     margin-bottom: 50px;
